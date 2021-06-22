@@ -1,6 +1,6 @@
-# Low_income_Elderly-_Tax_Analysis
+# Low_income_Elderly_Tax_Analysis
 
-
+Collaborators: Holly Therrell, Toni Kim, Rachel Woeltje
 
 ### Interactive Excel Dashboard For Informing Low Income and Elderly Assistance Grants
 
